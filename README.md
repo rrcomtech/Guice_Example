@@ -7,4 +7,4 @@ mvn clean compile exec:java
 ```
 
 Project structure:
-![Project Class Structure](Guice_Example.svg)
+![Project Class Structure<br />](Guice_Example.svg)
