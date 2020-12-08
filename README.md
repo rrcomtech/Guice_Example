@@ -5,3 +5,6 @@ Execution:
 ```
 mvn clean compile exec:java
 ```
+
+Project structure:
+![Project Class Structure](Guice_Example.svg)
