@@ -5,6 +5,4 @@ Execution:
 ```
 mvn clean compile exec:java
 ```
-
-Project structure:
-![](Guice_Example.svg)
+![Project Structure](Guice_Example.svg)
